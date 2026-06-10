@@ -1,22 +1,43 @@
-# Landing Page - Houi Produtora
+# 🎥 Landing Page Houi Produtora
 
-## Sobre o projeto
+## 📖 Sobre o Projeto
 
-Landing page desenvolvida para apresentar os serviços e portfólio da Houi Produtora.
+Landing page desenvolvida para apresentação institucional da Houi Produtora, destacando seus serviços, diferenciais e canais de contato.
 
-## Objetivo
+---
 
-Criar uma presença digital moderna e profissional para divulgação da marca.
+## 🎯 Objetivo
 
-## Funcionalidades
+Fortalecer a presença digital da marca e facilitar o contato de potenciais clientes.
+
+---
+
+## ⚙️ Funcionalidades
 
 - Apresentação institucional
-- Exibição de serviços
+- Sessão de serviços
 - Informações de contato
 - Design responsivo
+- Navegação intuitiva
 
-## Tecnologias
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - HTML
 - CSS
 - JavaScript
+
+---
+
+## 🚀 Resultados Esperados
+
+- Aumento da presença digital
+- Melhor apresentação da empresa
+- Geração de oportunidades comerciais
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Julio Meneghette
