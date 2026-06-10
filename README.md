@@ -1,5 +1,9 @@
 # 🎥 Landing Page Houi Produtora
 
+## 📸 Preview
+
+![Preview do Sistema](assets/preview.png)
+
 ## 📖 Sobre o Projeto
 
 Landing page desenvolvida para apresentação institucional da Houi Produtora, destacando seus serviços, diferenciais e canais de contato.
